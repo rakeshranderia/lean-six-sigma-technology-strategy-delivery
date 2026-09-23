@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="330" viewBox="0 0 1680 330">
+<title>Problem to Roadmap</title>
+<rect width="1680" height="330" fill="#ffffff"/>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #1f2937; }
+.title { font-size: 26px; font-weight: 700; fill: #17365d; }
+.sub { font-size: 14px; fill: #667085; }
+.box { fill: #eef3f9; stroke: #cfd9e8; stroke-width: 1.5; rx: 10; }
+.box2 { fill: #ffffff; stroke: #2f5597; stroke-width: 1.8; rx: 10; }
+.bt { font-size: 15px; font-weight: 700; fill: #17365d; }
+.sm { font-size: 12px; fill: #667085; }
+.band { fill: #17365d; }
+.bandtext { font-size: 14px; font-weight: 700; fill: #ffffff; }
+.arrow { stroke: #2f5597; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#2f5597"/>
+</marker>
+</defs>
+<text class="title" x="50" y="45">From Problem to Roadmap</text><text class="sub" x="50" y="72">A roadmap becomes stronger when the investment sequence can be traced back to evidence and cause.</text><rect class="box2" x="40" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="110.0" y="154.0" text-anchor="middle">Problem</text>
+<text class="sm" x="110.0" y="174.0" text-anchor="middle">DEFINE</text>
+<path class="arrow" d="M180,156.0 L198,156.0"/>
+<rect class="box" x="202" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="272.0" y="154.0" text-anchor="middle">Current State</text>
+<text class="sm" x="272.0" y="174.0" text-anchor="middle">DEFINE / MEASURE</text>
+<path class="arrow" d="M342,156.0 L360,156.0"/>
+<rect class="box" x="364" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="434.0" y="154.0" text-anchor="middle">Evidence</text>
+<text class="sm" x="434.0" y="174.0" text-anchor="middle">MEASURE</text>
+<path class="arrow" d="M504,156.0 L522,156.0"/>
+<rect class="box2" x="526" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="596.0" y="154.0" text-anchor="middle">Root Cause</text>
+<text class="sm" x="596.0" y="174.0" text-anchor="middle">ANALYSE</text>
+<path class="arrow" d="M666,156.0 L684,156.0"/>
+<rect class="box" x="688" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="758.0" y="154.0" text-anchor="middle">Capability Gap</text>
+<text class="sm" x="758.0" y="174.0" text-anchor="middle">ANALYSE</text>
+<path class="arrow" d="M828,156.0 L846,156.0"/>
+<rect class="box" x="850" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="920.0" y="154.0" text-anchor="middle">Options</text>
+<text class="sm" x="920.0" y="174.0" text-anchor="middle">IMPROVE</text>
+<path class="arrow" d="M990,156.0 L1008,156.0"/>
+<rect class="box" x="1012" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="1082.0" y="154.0" text-anchor="middle">Prioritisation</text>
+<text class="sm" x="1082.0" y="174.0" text-anchor="middle">IMPROVE</text>
+<path class="arrow" d="M1152,156.0 L1170,156.0"/>
+<rect class="box2" x="1174" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="1244.0" y="154.0" text-anchor="middle">Roadmap</text>
+<text class="sm" x="1244.0" y="174.0" text-anchor="middle">IMPROVE</text>
+<path class="arrow" d="M1314,156.0 L1332,156.0"/>
+<rect class="box" x="1336" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="1406.0" y="154.0" text-anchor="middle">Delivery</text>
+<text class="sm" x="1406.0" y="174.0" text-anchor="middle">IMPROVE</text>
+<path class="arrow" d="M1476,156.0 L1494,156.0"/>
+<rect class="box2" x="1498" y="120" width="140" height="72" rx="10"/>
+<text class="bt" x="1568.0" y="154.0" text-anchor="middle">Benefits</text>
+<text class="sm" x="1568.0" y="174.0" text-anchor="middle">CONTROL</text>
+<text class="sub" x="840" y="260" text-anchor="middle">A project list starts at “Options”. An evidence-led roadmap starts at “Problem”.</text></svg>

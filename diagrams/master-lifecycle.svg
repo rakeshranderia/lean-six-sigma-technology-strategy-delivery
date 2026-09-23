@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360">
+<title>Lean Six Sigma for Technology Strategy &amp; Delivery — Master Lifecycle</title>
+<rect width="1440" height="360" fill="#ffffff"/>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #1f2937; }
+.title { font-size: 26px; font-weight: 700; fill: #17365d; }
+.sub { font-size: 14px; fill: #667085; }
+.box { fill: #eef3f9; stroke: #cfd9e8; stroke-width: 1.5; rx: 10; }
+.box2 { fill: #ffffff; stroke: #2f5597; stroke-width: 1.8; rx: 10; }
+.bt { font-size: 15px; font-weight: 700; fill: #17365d; }
+.sm { font-size: 12px; fill: #667085; }
+.band { fill: #17365d; }
+.bandtext { font-size: 14px; font-weight: 700; fill: #ffffff; }
+.arrow { stroke: #2f5597; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#2f5597"/>
+</marker>
+</defs>
+<text class="title" x="60" y="48">Technology Strategy &amp; Delivery Lifecycle</text><text class="sub" x="60" y="74">Lean Six Sigma provides an evidence and improvement discipline across the full management lifecycle.</text><rect class="box" x="50" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="122.5" y="149.0" text-anchor="middle">Business Need</text>
+<path class="arrow" d="M195,151.0 L215,151.0"/>
+<rect class="box" x="220" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="292.5" y="149.0" text-anchor="middle">Strategy</text>
+<path class="arrow" d="M365,151.0 L385,151.0"/>
+<rect class="box" x="390" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="462.5" y="149.0" text-anchor="middle">Roadmap</text>
+<path class="arrow" d="M535,151.0 L555,151.0"/>
+<rect class="box" x="560" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="632.5" y="149.0" text-anchor="middle">Portfolio</text>
+<path class="arrow" d="M705,151.0 L725,151.0"/>
+<rect class="box" x="730" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="802.5" y="149.0" text-anchor="middle">Program</text>
+<path class="arrow" d="M875,151.0 L895,151.0"/>
+<rect class="box" x="900" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="972.5" y="149.0" text-anchor="middle">Project</text>
+<path class="arrow" d="M1045,151.0 L1065,151.0"/>
+<rect class="box" x="1070" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="1142.5" y="149.0" text-anchor="middle">Operations</text>
+<path class="arrow" d="M1215,151.0 L1235,151.0"/>
+<rect class="box" x="1240" y="115" width="145" height="72" rx="10"/>
+<text class="bt" x="1312.5" y="149.0" text-anchor="middle">Benefits</text>
+<rect class="band" x="50" y="235" width="1340" height="60" rx="12"/><text class="bandtext" x="184.0" y="271" text-anchor="middle">DEFINE</text><text class="bandtext" x="452.0" y="271" text-anchor="middle">MEASURE</text><text class="bandtext" x="720.0" y="271" text-anchor="middle">ANALYSE</text><text class="bandtext" x="988.0" y="271" text-anchor="middle">IMPROVE</text><text class="bandtext" x="1256.0" y="271" text-anchor="middle">CONTROL</text><text class="sub" x="720" y="330" text-anchor="middle">Problem → Evidence → Cause → Improvement → Sustained Outcome</text></svg>

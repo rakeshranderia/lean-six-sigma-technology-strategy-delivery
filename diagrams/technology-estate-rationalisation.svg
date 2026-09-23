@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1860" height="430" viewBox="0 0 1860 430">
+<title>Technology Estate Rationalisation Example</title>
+<rect width="1860" height="430" fill="#ffffff"/>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #1f2937; }
+.title { font-size: 26px; font-weight: 700; fill: #17365d; }
+.sub { font-size: 14px; fill: #667085; }
+.box { fill: #eef3f9; stroke: #cfd9e8; stroke-width: 1.5; rx: 10; }
+.box2 { fill: #ffffff; stroke: #2f5597; stroke-width: 1.8; rx: 10; }
+.bt { font-size: 15px; font-weight: 700; fill: #17365d; }
+.sm { font-size: 11px; fill: #667085; }
+.band { fill: #17365d; }
+.bandtext { font-size: 14px; font-weight: 700; fill: #ffffff; }
+.arrow { stroke: #2f5597; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#2f5597"/>
+</marker>
+</defs>
+<text class="title" x="50" y="44">Worked Example — Technology Estate Rationalisation</text><text class="sub" x="50" y="70">Illustrative flow showing how a broad estate problem becomes a roadmap and operating control model.</text><rect class="box2" x="45" y="135" width="190" height="105" rx="10"/><text class="bt" x="140.0" y="169" text-anchor="middle">Fragmented estate</text><text class="sm" x="140.0" y="191" text-anchor="middle">High cost, complexity and</text><text class="sm" x="140.0" y="206" text-anchor="middle">risk</text><path class="arrow" d="M235,187 L254,187"/><rect class="box" x="259" y="135" width="210" height="105" rx="10"/><text class="bt" x="364.0" y="169" text-anchor="middle">Baseline</text><text class="sm" x="364.0" y="191" text-anchor="middle">Applications, vendors, cost,</text><text class="sm" x="364.0" y="206" text-anchor="middle">incidents and lifecycle</text><path class="arrow" d="M469,187 L488,187"/><rect class="box2" x="493" y="135" width="245" height="105" rx="10"/><text class="bt" x="615.5" y="169" text-anchor="middle">Analyse</text><text class="sm" x="615.5" y="191" text-anchor="middle">Duplication, ownership,</text><text class="sm" x="615.5" y="206" text-anchor="middle">architecture and commercial causes</text><path class="arrow" d="M738,187 L757,187"/><rect class="box" x="762" y="135" width="235" height="105" rx="10"/><text class="bt" x="879.5" y="169" text-anchor="middle">Capability gaps</text><text class="sm" x="879.5" y="191" text-anchor="middle">Lifecycle, ownership, standards</text><text class="sm" x="879.5" y="206" text-anchor="middle">and vendor governance</text><path class="arrow" d="M997,187 L1016,187"/><rect class="box2" x="1021" y="135" width="250" height="105" rx="10"/><text class="bt" x="1146.0" y="169" text-anchor="middle">Roadmap</text><text class="sm" x="1146.0" y="191" text-anchor="middle">Stabilise → Simplify → Modernise →</text><text class="sm" x="1146.0" y="206" text-anchor="middle">Optimise</text><path class="arrow" d="M1271,187 L1290,187"/><rect class="box" x="1295" y="135" width="220" height="105" rx="10"/><text class="bt" x="1405.0" y="169" text-anchor="middle">Control</text><text class="sm" x="1405.0" y="191" text-anchor="middle">Ownership, lifecycle,</text><text class="sm" x="1405.0" y="206" text-anchor="middle">architecture and benefits</text><path class="arrow" d="M1515,187 L1534,187"/><rect class="box2" x="1539" y="135" width="200" height="105" rx="10"/><text class="bt" x="1639.0" y="169" text-anchor="middle">Outcome</text><text class="sm" x="1639.0" y="191" text-anchor="middle">Lower cost, risk and support</text><text class="sm" x="1639.0" y="206" text-anchor="middle">effort</text><rect class="band" x="45" y="310" width="1760" height="55" rx="10"/><text class="bandtext" x="221.0" y="343" text-anchor="middle">DEFINE</text><text class="bandtext" x="573.0" y="343" text-anchor="middle">MEASURE</text><text class="bandtext" x="925.0" y="343" text-anchor="middle">ANALYSE</text><text class="bandtext" x="1277.0" y="343" text-anchor="middle">IMPROVE</text><text class="bandtext" x="1629.0" y="343" text-anchor="middle">CONTROL</text></svg>
