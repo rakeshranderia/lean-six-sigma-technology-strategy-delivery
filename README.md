@@ -46,7 +46,7 @@ DMAIC provides a consistent reasoning pattern across all seven levels.
 
 ## Framework contents
 
-The repository now includes the v0.1.0 foundation plus the v0.2.0 Lean, design and iterative-delivery expansion.
+The repository now provides a consolidated Lean Six Sigma reference spanning technology strategy, roadmaps, portfolios, programs, projects, operations and benefits realisation.
 
 ### Core documentation
 
