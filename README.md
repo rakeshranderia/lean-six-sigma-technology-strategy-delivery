@@ -55,7 +55,7 @@ The repository now provides a consolidated Lean Six Sigma reference spanning tec
 3. [DMAIC × Technology Management Crosswalk](docs/03-dmaic-technology-management-crosswalk.md)
 4. [Problem-to-Roadmap Model](docs/04-problem-to-roadmap.md)
 5. [Worked Example: Technology Estate Rationalisation](docs/05-worked-example-technology-estate-rationalisation.md)
-6. [Phase 2 Expansion Roadmap](docs/06-phase2-expansion-roadmap.md)
+6. [Framework Evolution](docs/06-phase2-expansion-roadmap.md)
 7. [Publishing & Derivative Content Plan](docs/07-publishing-derivatives.md)
 8. [Lean Waste in Technology](docs/08-lean-waste-in-technology.md)
 9. [DMAIC vs DMADV in Technology](docs/09-dmaic-vs-dmadv.md)
