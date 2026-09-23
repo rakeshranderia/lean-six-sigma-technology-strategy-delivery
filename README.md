@@ -60,6 +60,11 @@ The repository now includes the v0.1.0 foundation plus the v0.2.0 Lean, design a
 8. [Lean Waste in Technology](docs/08-lean-waste-in-technology.md)
 9. [DMAIC vs DMADV in Technology](docs/09-dmaic-vs-dmadv.md)
 10. [DMAIC and Agile / Iterative Delivery](docs/10-dmaic-agile-iterative-delivery.md)
+11. [Six Sigma / Lean Tool Crosswalk for Technology](docs/11-technology-tool-crosswalk.md)
+12. [Portfolio Prioritisation](docs/12-portfolio-prioritisation.md)
+13. [Program Benefits Mapping](docs/13-program-benefits-mapping.md)
+14. [Benefits Realisation & Control Loop](docs/14-benefits-realisation-loop.md)
+15. [Worked Example: Service Desk Flow Improvement](docs/15-worked-example-service-desk.md)
 
 ### Diagrams
 
@@ -70,6 +75,11 @@ The repository now includes the v0.1.0 foundation plus the v0.2.0 Lean, design a
 - [Lean Waste in Technology](diagrams/lean-waste-in-technology.svg)
 - [DMAIC vs DMADV](diagrams/dmaic-vs-dmadv.svg)
 - [DMAIC + Agile / Iterative Delivery](diagrams/dmaic-agile-overlay.svg)
+- [Technology Tool Crosswalk](diagrams/technology-tool-crosswalk.svg)
+- [Portfolio Prioritisation](diagrams/portfolio-prioritisation.svg)
+- [Program Benefits Map](diagrams/program-benefits-map.svg)
+- [Benefits Realisation Loop](diagrams/benefits-realisation-loop.svg)
+- [Strategy to Benefits Cascade](diagrams/strategy-to-benefits-cascade.svg)
 
 Editable Mermaid-style source files are also included under [`diagrams/source/`](diagrams/source/).
 
@@ -80,6 +90,10 @@ Editable Mermaid-style source files are also included under [`diagrams/source/`]
 - [Capability Gap Analysis](templates/03-capability-gap-analysis.md)
 - [Roadmap Prioritisation](templates/04-roadmap-prioritisation.md)
 - [Benefits & Control Plan](templates/05-benefits-control-plan.md)
+- [Portfolio Evaluation](templates/06-portfolio-evaluation.md)
+- [Program Benefits Map](templates/07-program-benefits-map.md)
+- [Benefits Realisation Register](templates/08-benefits-realisation-register.md)
+- [Tool Selection Guide](templates/09-tool-selection-guide.md)
 
 ---
 
@@ -161,24 +175,15 @@ See [Worked Example: Technology Estate Rationalisation](docs/05-worked-example-t
 
 ---
 
-## v0.2.0 — Lean, Design & Iterative Delivery
+## v1.0.0 — Stable Reference
 
-v0.2.0 adds three complementary lenses:
+v1.0.0 consolidates the framework into a complete reference spanning strategy, roadmaps, portfolio prioritisation, program outcomes, project/Agile delivery, operational improvement, Lean waste, DMAIC/DMADV, tool selection and benefits realisation.
 
-- **Lean Waste in Technology** — where capacity is consumed without proportionate value, quality or risk reduction;
-- **DMAIC vs DMADV** — improving an existing measurable capability vs designing something materially new;
-- **DMAIC + Agile** — using iterative delivery inside Improve while maintaining an evidence chain from problem to sustained outcome.
+It also includes a static [Technology Roadmap Evidence Check](tools/technology-roadmap-evidence-check/).
 
-### Next: v0.3.0
+![Strategy to Benefits Cascade](diagrams/strategy-to-benefits-cascade.svg)
 
-The next planned expansion covers:
-
-- Six Sigma / Lean technology-tool crosswalk;
-- portfolio prioritisation;
-- program benefits mapping;
-- benefits-realisation loop.
-
-See [Framework Expansion Roadmap](docs/06-phase2-expansion-roadmap.md).
+See [Framework Evolution](docs/06-phase2-expansion-roadmap.md).
 
 ---
 
@@ -212,11 +217,13 @@ See [Publishing & Derivative Content Plan](docs/07-publishing-derivatives.md).
 
 ## Release
 
-Current release: **v0.2.0 — Lean, Design & Iterative Delivery**
+Current release: **v1.0.0 — Stable Reference**
 
-See [v0.2.0 release notes](release-notes/v0.2.0.md).
+See [v1.0.0 release notes](release-notes/v1.0.0.md).
 
-Previous: [v0.1.0 — Foundation](release-notes/v0.1.0.md).
+Previous releases:
+- [v0.2.0 — Lean, Design & Iterative Delivery](release-notes/v0.2.0.md)
+- [v0.1.0 — Foundation](release-notes/v0.1.0.md)
 
 ---
 

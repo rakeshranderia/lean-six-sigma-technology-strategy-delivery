@@ -2,6 +2,23 @@
 
 All notable changes to this repository will be documented here.
 
+## [1.0.0] - 2026-09-23
+
+### Added
+- Lean Six Sigma technology-tool crosswalk;
+- portfolio prioritisation model;
+- program benefits mapping;
+- benefits-realisation and control loop;
+- service-desk improvement worked example;
+- four practical templates;
+- five new diagrams plus editable source;
+- static Technology Roadmap Evidence Check.
+
+### Updated
+- README to stable-reference positioning;
+- framework evolution roadmap;
+- release metadata.
+
 ## [0.2.0] - 2026-09-23
 
 ### Added

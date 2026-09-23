@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Technology Roadmap Evidence Check</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f7f9fc;color:#1f2937}
+main{max-width:900px;margin:40px auto;background:white;padding:32px;border:1px solid #dbe3ef;border-radius:14px}
+h1{color:#17365d}.q{padding:17px 0;border-top:1px solid #e5e7eb}.q:first-of-type{border-top:0}
+label{display:block;margin:8px 0}button{background:#17365d;color:#fff;border:0;border-radius:8px;padding:12px 18px;font-weight:700}
+#result{display:none;margin-top:24px;padding:20px;background:#eef3f9;border-radius:10px}.score{font-size:1.5rem;font-weight:700;color:#17365d}.small{color:#667085}
+</style></head><body><main>
+<h1>Technology Roadmap Evidence Check</h1>
+<p>Assess whether a roadmap is grounded in evidence, capability gaps and measurable outcomes rather than functioning mainly as a project list.</p>
+<p class="small">Yes = 2 · Partly = 1 · No = 0. Lightweight self-assessment only.</p>
+<form id="f"><div id="qs"></div><button>Assess roadmap</button></form><div id="result"></div>
+</main><script>
+const q=["Is the business outcome or problem explicitly defined?","Is the current state documented sufficiently to understand the gap?","Is there a measurable baseline?","Have root causes or systemic drivers been analysed?","Are capability gaps stated independently of specific products or vendors?","Are major dependencies and constraints visible?","Are prioritisation criteria explicit?","Are expected benefits measurable and linked to the baseline?","Is operational ownership defined for the target state?","Is there a control or review mechanism to detect drift and revisit the roadmap?"];
+let c=document.getElementById("qs");
+q.forEach((x,i)=>{let d=document.createElement("div");d.className="q";d.innerHTML=`<strong>${i+1}. ${x}</strong><label><input type="radio" name="q${i}" value="2" required> Yes</label><label><input type="radio" name="q${i}" value="1"> Partly</label><label><input type="radio" name="q${i}" value="0"> No</label>`;c.appendChild(d)});
+document.getElementById("f").addEventListener("submit",e=>{e.preventDefault();let fd=new FormData(e.target),s=0;q.forEach((_,i)=>s+=Number(fd.get(`q${i}`)));let b,d;if(s>=16){b="Evidence-led roadmap";d="Strong chain from problem and baseline through capability, prioritisation and control."}else if(s>=9){b="Partially evidenced";d="Useful evidence exists but some baselines, dependencies, decisions or controls need strengthening."}else{b="Project-list driven";d="The roadmap relies more heavily on planned initiatives than a visible evidence chain from problem to measurable outcome."}let r=document.getElementById("result");r.style.display="block";r.innerHTML=`<div class="score">${s}/20 — ${b}</div><p>${d}</p><p class="small">Use the result to identify where further Define, Measure, Analyse or Control work would help.</p>`});
+</script></body></html>

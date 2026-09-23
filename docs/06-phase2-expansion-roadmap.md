@@ -1,79 +1,24 @@
-# 6. Framework Expansion Roadmap
+# 6. Framework Evolution
 
-The repository is being developed in staged releases so that each version remains usable on its own.
+## v0.1.0 — Foundation
+Established the lifecycle, DMAIC overlay, management crosswalk, problem-to-roadmap model, worked example and foundational templates.
 
-## Delivered in v0.1.0 — Foundation
+## v0.2.0 — Lean, Design & Iterative Delivery
+Added Lean waste, DMAIC vs DMADV and the Agile / iterative-delivery overlay.
 
-- master technology lifecycle;
-- DMAIC overlay across strategy and delivery;
-- strategy/roadmap/portfolio/program/project/operations crosswalk;
-- problem-to-roadmap model;
-- technology-estate rationalisation worked example;
-- practical templates.
+## v1.0.0 — Stable Reference
+Consolidates the remaining planned layers:
+- Lean Six Sigma technology-tool crosswalk;
+- portfolio prioritisation;
+- program benefits mapping;
+- benefits-realisation loop;
+- second worked example;
+- expanded templates;
+- static Technology Roadmap Evidence Check.
 
----
+The release intentionally skips intermediate public versions so the remaining planned material can be reviewed as one coherent body of work.
 
-## Delivered in v0.2.0 — Lean, Design & Iterative Delivery
+## Future review areas
+Only add further material if practical use or feedback justifies it. Possible future examples include ERP recovery, cybersecurity maturity, data governance, AI adoption and M&A integration.
 
-### Lean waste translated into technology
-Adds the eight-waste lens across technology strategy, portfolios, projects and operations.
-
-See:
-[Lean Waste in Technology](08-lean-waste-in-technology.md)
-
-### DMAIC vs DMADV
-Adds a practical distinction between improving an existing capability and designing something materially new.
-
-See:
-[DMAIC vs DMADV in Technology](09-dmaic-vs-dmadv.md)
-
-### Agile / iterative delivery overlay
-Shows how DMAIC can frame the problem and outcome while Agile supports iterative implementation and learning.
-
-See:
-[DMAIC and Agile / Iterative Delivery](10-dmaic-agile-iterative-delivery.md)
-
----
-
-## Planned v0.3.0 — Tools, Portfolio & Benefits
-
-### Technology tool crosswalk
-Map Voice of Customer, CTQ, SIPOC, Pareto, 5 Whys, fishbone, FMEA, value-stream mapping, control plans, mistake-proofing and process capability to technology use cases.
-
-### Portfolio prioritisation
-Expand the prioritisation model across value, risk, strategic fit, customer impact, cost, effort, dependency, reversibility and capacity.
-
-### Program benefits mapping
-Show how multiple project outputs combine into one measurable program outcome.
-
-> Five green projects do not guarantee a successful program.
-
-### Benefits realisation loop
-Add the closed loop:
-
-**Deliver → Operate → Measure → Compare to Baseline → Adjust → Feed Strategy**
-
----
-
-## Planned v0.4.0 — Examples & Interactive Tools
-
-Potential worked examples:
-
-- service desk improvement;
-- ERP process recovery;
-- cybersecurity maturity roadmap;
-- data-governance uplift;
-- AI adoption;
-- technology M&A integration.
-
-Potential interactive tools:
-
-- Technology Improvement Path
-- Technology Roadmap Evidence Check
-- Lean Waste in IT Diagnostic
-
----
-
-## Target v1.0.0 — Stable Reference
-
-A consolidated release bringing together the core framework, Lean, DMAIC / DMADV, Agile overlay, tool crosswalk, portfolio/program/benefits models, worked examples, templates and interactive-tool specifications.
+No further release cadence is implied. The repository should now evolve from real use rather than from a content schedule.
