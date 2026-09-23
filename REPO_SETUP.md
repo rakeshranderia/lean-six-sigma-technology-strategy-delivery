@@ -69,7 +69,7 @@ Use the prepared release notes in:
 ## Suggested future versioning
 
 - `v0.1.0` — Foundation
-- `v0.2.0` — Lean, DMADV and Agile overlays
+- `v0.2.0` — Lean, Design & Iterative Delivery
 - `v0.3.0` — Tool crosswalk, portfolio and benefits
 - `v0.4.0` — Worked examples and interactive-tool specifications
 - `v1.0.0` — Stable consolidated reference

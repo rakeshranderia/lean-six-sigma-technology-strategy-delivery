@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="620" viewBox="0 0 1500 620">
+<title>Lean Waste in Technology</title>
+<rect width="1500" height="620" fill="#ffffff"/>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #1f2937; }
+.title { font-size: 26px; font-weight: 700; fill: #17365d; }
+.sub { font-size: 14px; fill: #667085; }
+.box { fill: #eef3f9; stroke: #cfd9e8; stroke-width: 1.5; }
+.box2 { fill: #ffffff; stroke: #2f5597; stroke-width: 1.8; }
+.bt { font-size: 15px; font-weight: 700; fill: #17365d; }
+.sm { font-size: 11px; fill: #667085; }
+.band { fill: #17365d; }
+.bandtext { font-size: 14px; font-weight: 700; fill: #ffffff; }
+.arrow { stroke: #2f5597; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#2f5597"/>
+</marker>
+</defs>
+<text class="title" x="50" y="45">Lean Waste in Technology</text><text class="sub" x="50" y="72">Eight common waste prompts translated carefully into technology environments.</text><rect class="box2" x="70" y="125" width="275" height="150" rx="10"/><text class="bt" x="207.5" y="155" text-anchor="middle">Defects</text><text class="sm" x="207.5" y="176" text-anchor="middle">Bugs, failed changes, data</text><text class="sm" x="207.5" y="191" text-anchor="middle">errors, rework</text><rect class="box" x="395" y="125" width="275" height="150" rx="10"/><text class="bt" x="532.5" y="155" text-anchor="middle">Overproduction</text><text class="sm" x="532.5" y="176" text-anchor="middle">Unused reports, features,</text><text class="sm" x="532.5" y="191" text-anchor="middle">environments or output</text><rect class="box2" x="720" y="125" width="275" height="150" rx="10"/><text class="bt" x="857.5" y="155" text-anchor="middle">Waiting</text><text class="sm" x="857.5" y="176" text-anchor="middle">Approvals, queues, hand-offs</text><text class="sm" x="857.5" y="191" text-anchor="middle">and blocked dependencies</text><rect class="box" x="1045" y="125" width="275" height="150" rx="10"/><text class="bt" x="1182.5" y="155" text-anchor="middle">Non-utilised talent</text><text class="sm" x="1182.5" y="176" text-anchor="middle">Specialists doing repetitive</text><text class="sm" x="1182.5" y="191" text-anchor="middle">or low-value manual work</text><rect class="box2" x="70" y="330" width="275" height="150" rx="10"/><text class="bt" x="207.5" y="360" text-anchor="middle">Transportation</text><text class="sm" x="207.5" y="381" text-anchor="middle">Unnecessary data movement,</text><text class="sm" x="207.5" y="396" text-anchor="middle">exports and integration hops</text><rect class="box" x="395" y="330" width="275" height="150" rx="10"/><text class="bt" x="532.5" y="360" text-anchor="middle">Inventory</text><text class="sm" x="532.5" y="381" text-anchor="middle">Excess WIP, stale backlog,</text><text class="sm" x="532.5" y="396" text-anchor="middle">unused licences or dormant</text><text class="sm" x="532.5" y="411" text-anchor="middle">assets</text><rect class="box2" x="720" y="330" width="275" height="150" rx="10"/><text class="bt" x="857.5" y="360" text-anchor="middle">Motion</text><text class="sm" x="857.5" y="381" text-anchor="middle">Context switching, tool</text><text class="sm" x="857.5" y="396" text-anchor="middle">hopping and repeated lookup</text><rect class="box" x="1045" y="330" width="275" height="150" rx="10"/><text class="bt" x="1182.5" y="360" text-anchor="middle">Extra-processing</text><text class="sm" x="1182.5" y="381" text-anchor="middle">Duplicate approvals, entry,</text><text class="sm" x="1182.5" y="396" text-anchor="middle">controls or reporting</text><rect class="band" x="70" y="525" width="1250" height="52" rx="10"/><text class="bandtext" x="695" y="557" text-anchor="middle">Ask: Where is effort being consumed without improving value, quality, risk or outcome?</text></svg>

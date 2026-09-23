@@ -1,0 +1,6 @@
+flowchart TD
+    Q{Existing capability with a measurable performance gap?}
+    Q -->|Yes - improve existing| DMAIC[Define → Measure → Analyse → Improve → Control]
+    Q -->|No / fundamental redesign| DMADV[Define → Measure → Analyse → Design → Verify]
+    DMAIC --> X[Analysis may still justify fundamental redesign]
+    X --> DMADV

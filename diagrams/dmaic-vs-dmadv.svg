@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="600" viewBox="0 0 1500 600">
+<title>DMAIC vs DMADV in Technology</title>
+<rect width="1500" height="600" fill="#ffffff"/>
+<style>
+text { font-family: Arial, Helvetica, sans-serif; fill: #1f2937; }
+.title { font-size: 26px; font-weight: 700; fill: #17365d; }
+.sub { font-size: 14px; fill: #667085; }
+.box { fill: #eef3f9; stroke: #cfd9e8; stroke-width: 1.5; }
+.box2 { fill: #ffffff; stroke: #2f5597; stroke-width: 1.8; }
+.bt { font-size: 15px; font-weight: 700; fill: #17365d; }
+.sm { font-size: 11px; fill: #667085; }
+.band { fill: #17365d; }
+.bandtext { font-size: 14px; font-weight: 700; fill: #ffffff; }
+.arrow { stroke: #2f5597; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+<path d="M0,0 L0,6 L9,3 z" fill="#2f5597"/>
+</marker>
+</defs>
+<text class="title" x="50" y="45">DMAIC vs DMADV in Technology</text><text class="sub" x="50" y="72">Improve an existing measurable capability, or design something materially new?</text><rect class="box2" x="545" y="105" width="410" height="95" rx="10"/><text class="bt" x="750.0" y="135" text-anchor="middle">What kind of change is this?</text><text class="sm" x="750.0" y="156" text-anchor="middle">Start with outcome, evidence and analysis</text><text class="sm" x="750.0" y="171" text-anchor="middle">before locking in the method.</text><path class="arrow" d="M650,200 L420,270"/><path class="arrow" d="M850,200 L1080,270"/><rect class="box2" x="155" y="270" width="520" height="95" rx="10"/><text class="bt" x="415.0" y="300" text-anchor="middle">DMAIC</text><text class="sm" x="415.0" y="321" text-anchor="middle">Existing capability with a measurable performance gap</text><text class="sm" x="415.0" y="336" text-anchor="middle">that can reasonably be improved.</text><rect class="box2" x="825" y="270" width="520" height="95" rx="10"/><text class="bt" x="1085.0" y="300" text-anchor="middle">DMADV</text><text class="sm" x="1085.0" y="321" text-anchor="middle">New capability or fundamental redesign where the target</text><text class="sm" x="1085.0" y="336" text-anchor="middle">needs to be designed and verified.</text><rect class="band" x="160" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="207" y="435" text-anchor="middle">DEFINE</text><rect class="band" x="262" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="309" y="435" text-anchor="middle">MEASURE</text><rect class="band" x="364" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="411" y="435" text-anchor="middle">ANALYSE</text><rect class="band" x="466" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="513" y="435" text-anchor="middle">IMPROVE</text><rect class="band" x="568" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="615" y="435" text-anchor="middle">CONTROL</text><rect class="band" x="830" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="877" y="435" text-anchor="middle">DEFINE</text><rect class="band" x="932" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="979" y="435" text-anchor="middle">MEASURE</text><rect class="band" x="1034" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="1081" y="435" text-anchor="middle">ANALYSE</text><rect class="band" x="1136" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="1183" y="435" text-anchor="middle">DESIGN</text><rect class="band" x="1238" y="405" width="94" height="48" rx="8"/><text class="bandtext" x="1285" y="435" text-anchor="middle">VERIFY</text><text class="sm" x="415" y="500" text-anchor="middle">Examples: incident reduction · ERP improvement · estate rationalisation · cloud optimisation</text><text class="sm" x="1085" y="500" text-anchor="middle">Examples: new data platform · operating model · greenfield portal · governance capability</text><text class="sub" x="750" y="555" text-anchor="middle">A DMAIC analysis can legitimately conclude that a DMADV-style redesign is required.</text></svg>

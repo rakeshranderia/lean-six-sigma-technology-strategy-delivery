@@ -44,9 +44,9 @@ DMAIC provides a consistent reasoning pattern across all seven levels.
 
 ---
 
-## Phase 1 contents
+## Framework contents
 
-This first release establishes the framework foundation.
+The repository now includes the v0.1.0 foundation plus the v0.2.0 Lean, design and iterative-delivery expansion.
 
 ### Core documentation
 
@@ -57,6 +57,9 @@ This first release establishes the framework foundation.
 5. [Worked Example: Technology Estate Rationalisation](docs/05-worked-example-technology-estate-rationalisation.md)
 6. [Phase 2 Expansion Roadmap](docs/06-phase2-expansion-roadmap.md)
 7. [Publishing & Derivative Content Plan](docs/07-publishing-derivatives.md)
+8. [Lean Waste in Technology](docs/08-lean-waste-in-technology.md)
+9. [DMAIC vs DMADV in Technology](docs/09-dmaic-vs-dmadv.md)
+10. [DMAIC and Agile / Iterative Delivery](docs/10-dmaic-agile-iterative-delivery.md)
 
 ### Diagrams
 
@@ -64,6 +67,9 @@ This first release establishes the framework foundation.
 - [DMAIC × Management Levels](diagrams/dmaic-management-levels.svg)
 - [Problem to Roadmap](diagrams/problem-to-roadmap.svg)
 - [Technology Estate Rationalisation Example](diagrams/technology-estate-rationalisation.svg)
+- [Lean Waste in Technology](diagrams/lean-waste-in-technology.svg)
+- [DMAIC vs DMADV](diagrams/dmaic-vs-dmadv.svg)
+- [DMAIC + Agile / Iterative Delivery](diagrams/dmaic-agile-overlay.svg)
 
 Editable Mermaid-style source files are also included under [`diagrams/source/`](diagrams/source/).
 
@@ -155,21 +161,24 @@ See [Worked Example: Technology Estate Rationalisation](docs/05-worked-example-t
 
 ---
 
-## Planned Phase 2 expansion
+## v0.2.0 — Lean, Design & Iterative Delivery
 
-Phase 2 will add:
+v0.2.0 adds three complementary lenses:
 
-- Lean waste translated into IT
-- DMAIC vs DMADV
-- Agile / iterative delivery overlay
-- Six Sigma tool crosswalk for technology
-- portfolio prioritisation methods
-- program benefits mapping
-- operational control and benefits-realisation models
-- additional worked examples
-- practical assessment tools
+- **Lean Waste in Technology** — where capacity is consumed without proportionate value, quality or risk reduction;
+- **DMAIC vs DMADV** — improving an existing measurable capability vs designing something materially new;
+- **DMAIC + Agile** — using iterative delivery inside Improve while maintaining an evidence chain from problem to sustained outcome.
 
-See [Phase 2 Expansion Roadmap](docs/06-phase2-expansion-roadmap.md).
+### Next: v0.3.0
+
+The next planned expansion covers:
+
+- Six Sigma / Lean technology-tool crosswalk;
+- portfolio prioritisation;
+- program benefits mapping;
+- benefits-realisation loop.
+
+See [Framework Expansion Roadmap](docs/06-phase2-expansion-roadmap.md).
 
 ---
 
@@ -203,9 +212,11 @@ See [Publishing & Derivative Content Plan](docs/07-publishing-derivatives.md).
 
 ## Release
 
-Current release: **v0.1.0 — Foundation**
+Current release: **v0.2.0 — Lean, Design & Iterative Delivery**
 
-See [release notes](release-notes/v0.1.0.md).
+See [v0.2.0 release notes](release-notes/v0.2.0.md).
+
+Previous: [v0.1.0 — Foundation](release-notes/v0.1.0.md).
 
 ---
 
